@@ -1,2 +1,2 @@
 # bicycleSales_DV_tableau
-Data Visualization of Bicycle sales dataset using Tableau
+Created various Data Visuals highighting the relations of Bicycle sales dataset using Tableau.
